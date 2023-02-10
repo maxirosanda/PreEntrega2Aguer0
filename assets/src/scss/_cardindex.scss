@@ -1,0 +1,66 @@
+.card1 {
+  @include card(black);
+  .card__img1 {
+      width: 25%;
+      margin: 5px;
+    }
+    .card__title1 {
+      margin: 2px;
+      font-size: 25px;
+    }
+    .card__desc1 {
+      margin: 10px;
+      text-align: center;
+      font-size: 16px;
+    }
+
+}
+
+.card2 {
+  @include card(blue);
+  .card__img2 {
+      width: 25%;
+      margin: 5px;
+    }
+    .card__title2 {
+      margin: 2px;
+      font-size: 25px;
+    }
+    .card__desc2 {
+      margin: 10px;
+      text-align: center;
+      font-size: 16px;
+    }
+}
+.card3 {
+  @include card;
+  .card__img3 {
+      width: 25%;
+      margin: 5px;
+    }
+    .card__title3 {
+      margin: 2px;
+      font-size: 25px;
+    }
+    .card__desc3 {
+      margin: 10px;
+      text-align: center;
+      font-size: 16px;
+    }
+}
+.card4 {
+  @include card;
+  .card__img4 {
+      width: 25%;
+      margin: 5px;
+    }
+    .card__title4 {
+      margin: 2px;
+      font-size: 25px;
+    }
+    .card__desc4 {
+      margin: 10px;
+      text-align: center;
+      font-size: 16px;
+    }
+}

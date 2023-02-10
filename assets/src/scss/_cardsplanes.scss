@@ -1,0 +1,49 @@
+.cardPadrep {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: stretch;
+    -moz-column-gap: 110px;
+         column-gap: 110px;
+    row-gap: 50px;
+    .cardPadrep button {
+        @extend %button;
+        width: 100px;
+        text-align: center;
+        font-size: 100px;
+      }
+    .card1p {
+        @extend %cardsprice;
+        .card__img1p {
+            width: 30%;
+            margin: 5px;
+          }
+          .card__title1p {
+            margin: 2px;
+            font-size: smaller;
+          }
+      }
+    .card2p {
+        @extend %cardsprice;
+        .card__img2p {
+            width: 30%;
+            margin: 1px;
+          }
+          .card__title2p {
+            margin: 2px;
+            font-size: smaller;
+          }
+      }
+    .card3p {
+        @extend %cardsprice;
+        .card__img3p {
+            width: 30%;
+            margin: 2px;
+          }
+          .card__title3p {
+            margin: 2px;
+            font-size: smaller;
+          }
+      }
+  }

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/issues</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/pulls</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/actions</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/projects?query=is%3Aopen</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/security</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/f1551b73492747ad0780ea4c53f45ebe97d07bbc</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/releases</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/compare</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/security/policy</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/security/advisories</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/c66e84055f56803325164c00556475d0ee4bb57e</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels?sort=name-asc</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels?sort=name-desc</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels?sort=count-desc</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels?sort=count-asc</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels/bug</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels/documentation</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels/duplicate</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels/enhancement</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels/good%20first%20issue</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels/help%20wanted</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels/invalid</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels/question</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/labels/wontfix</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?state=open</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?state=closed</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/44eeb7891f9f988af5b216518dec3bc65bf284fa</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/1f9144863048dfd47cb83bdb96f11b1ed956a05d</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/d31666e47d9b59356e8546e55721824c454e607b</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/b8c7292afe4db4bea8c14a00dcb3f52fc0fa9418</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/e5cfe76ba6a514b4435c5f5014db554ae4278dfa</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/d1d8539287bde0400186d9af80af115db54d79b3</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/ea336fbff63210c769bbd18e21fa1fc60bc3d0b1</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/2bc91c06a9647423c955099a1f491aa71b1f2fd3</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/alvaaguero/PreEntrega2Aguer0/commit/909035e3e5b885f0221cd7c4663bb88869c9fd24</loc>
+  <lastmod>2023-01-18T02:34:09+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+
+
+</urlset>
